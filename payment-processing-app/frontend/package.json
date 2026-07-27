@@ -4,8 +4,8 @@
   "description": "A payment processing application with frontend and backend integration.",
   "main": "main.jsx",
   "scripts": {
-    "start": "vite",
-    "build": "vite build",
+    "start": "node init && vite",
+    "build": "node init && vite build",
     "serve": "vite preview"
   },
   "dependencies": {
