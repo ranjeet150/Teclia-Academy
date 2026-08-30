@@ -1,10 +1,7 @@
 node_modules/
 dist/
 .DS_Store
-.env
-.env.local
 
-.vscode/
 # Backend local/runtime files
 Backend/node_modules/
 Backend/.env
@@ -13,3 +10,4 @@ Backend/prisma/data/
 Backend/uploads/
 Backend/db/*.tmp
 Backend/db/*.bak
+config.bat
